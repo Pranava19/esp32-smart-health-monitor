@@ -146,16 +146,12 @@ For complete pin connection mapping, see [hardware/pinout_connections.md](hardwa
 
 ---
 
-## 🎓 Academic Context
+## 👤 Author & Developer
 
-Submitted in partial fulfillment of the requirements for the degree of **Bachelor of Technology (B.Tech) in Information Technology** at **PSG College of Technology**, Coimbatore (Anna University) — November 2025.
-
-**Project Contributors**:
-- Arun V (23I309)
-- Deepak G T (23I316)
-- Pranav A (23I342)
-- Arul Prasath V (23I308)
-- Karthikeyan KM (23I328)
+**Pranav A** (23I342)  
+Department of Information Technology  
+PSG College of Technology, Coimbatore — November 2025  
+GitHub: [@Pranava19](https://github.com/Pranava19)
 
 ---
 
